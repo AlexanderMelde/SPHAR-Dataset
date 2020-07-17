@@ -1,0 +1,5 @@
+tqdm
+numpy
+pyyaml
+xmltodict
+opencv-python
