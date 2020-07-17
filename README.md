@@ -51,17 +51,15 @@ Due to different and missing annotations in the original datasets, not all video
 You can delete the videos you don't need using a simple filename search, as the video names contain abbreviations for each dataset.
 
 ## Download
-The easiest way to just get the dataset videos is by downloading one of our releases:
+The easiest way to just get the dataset videos is by downloading one of our [releases](https://github.com/AlexanderMelde/SPHAR-Dataset/releases):
 
-- [**SPHAR-1.0.zip**](https://github.com/AlexanderMelde/SPHAR-Dataset/releases)
+- [**SPHAR-Dataset-1.0.zip**](https://github.com/AlexanderMelde/SPHAR-Dataset/archive/1.0.zip)
 
 If you want to modify the dataset and use the conversion and cutting scripts, clone or fork this repository using:
 
 ```
 git clone git@github.com:AlexanderMelde/SPHAR-Dataset.git
 ```
-
-Note that you will need the `git lfs` extension installed to download the videos. You can install it as described [here](https://github.com/git-lfs/git-lfs/wiki/Installation).
 
 ## License
 Using the datasets for researching purposes is possible for all of the videos, but licensing is difficult when aggregating data from multiple sources and licenses.
