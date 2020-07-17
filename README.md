@@ -85,7 +85,7 @@ If you want to cite the work of the **SPHAR Dataset** (aggregation, converting a
   journal = {GitHub repository},
   url = {https://github.com/AlexanderMelde/SPHAR-Dataset},
   version = {\UrlFont\href{https://github.com/AlexanderMelde/SPHAR-Dataset/commit/d95c16c}{d95c16c}},
-  urldate={2020-07-14}
+  urldate={2020-07-18}
 }
 ```
 (replace urldate with your own day of retrieval)
