@@ -80,7 +80,7 @@ If you want to cite the work of the **SPHAR Dataset** (aggregation, converting a
 @article{sphar-dataset,
   title={SPHAR: Surveillance Perspective Human Action Recognition Dataset},
   author={Alexander Melde},
-  year={2019},
+  year={2020},
   publisher = {GitHub},
   journal = {GitHub repository},
   url = {https://github.com/AlexanderMelde/SPHAR-Dataset},
