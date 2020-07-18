@@ -4,7 +4,7 @@ by parsing MEVA dataset annotation files recusively in a given folder.
 
 Example Output: {'person_sits_down': 33, 'person_rides_bicycle': 2}
 
-Author: Alexander Melde (a.melde@enbw.com)
+Author: Alexander Melde (alexander@melde.net)
 """
 
 import os
