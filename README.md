@@ -1,4 +1,4 @@
-![SPHAR Surveillance Perspective Human Action Recognition Banner](.docs/SPHAR-banner.png)
+![SPHAR Surveillance Perspective Human Action Recognition Banner](docs/SPHAR-banner.png)
 
 
 # **SPHAR**: **S**urveillance **P**erspective **H**uman **A**ction **R**ecognition Dataset
@@ -10,7 +10,7 @@ In this domain, most cameras will share a similar mounting angle and perspective
 
 The videos have been aggregated from multiple sources, converted to a consistent file type (`H265 HEVC .mp4`), cutted and cropped (spatio-temporally) to contain only one action at a time and last but not least sorted into 14 action classes.
 
-This Repository contains all videos of the SPHAR dataset as well as the scripts needed to create the dataset.
+This Repository contains all videos of the SPHAR dataset as well as the [scripts](scripts) needed to create the dataset.
 
 ## Dataset Overview
 
@@ -39,7 +39,7 @@ Videos per class and source dataset:
 ## Example Videos
 | falling | hitting | kicking | luggage | neutral | murdering | sitting | sitting | running |
 |---------|---------|---------|---------|---------|-----------|---------|---------|---------|
-| ![example video of falling class](.docs/falling.gif) | ![example video of hitting class](.docs/hitting.gif) | ![example video of kicking class](.docs/kicking.gif) | ![example video of luggage class](.docs/luggage.gif) | ![example video of neutral class](.docs/neutral.gif) | ![example video of murdering class](.docs/murdering.gif) | ![example video of sitting class](.docs/sitting.gif) | ![second example video of sitting class](.docs/sitting2.gif) |![example video of running class](.docs/running.gif) | 
+| ![example video of falling class](docs/falling.gif) | ![example video of hitting class](docs/hitting.gif) | ![example video of kicking class](docs/kicking.gif) | ![example video of luggage class](docs/luggage.gif) | ![example video of neutral class](docs/neutral.gif) | ![example video of murdering class](docs/murdering.gif) | ![example video of sitting class](docs/sitting.gif) | ![second example video of sitting class](docs/sitting2.gif) |![example video of running class](docs/running.gif) | 
 
 ## Known Caveats
 Due to different and missing annotations in the original datasets, not all videos could be automatically cropped to the relevant area containing the action.
@@ -91,4 +91,4 @@ If you want to cite the work of the **SPHAR Dataset** (aggregation, converting a
 (replace urldate with your own day of retrieval)
 
 
-![SPHAR Surveillance Perspective Human Action Recognition Logo](.docs/SPHAR.svg)
+![SPHAR Surveillance Perspective Human Action Recognition Logo](docs/SPHAR.svg)
