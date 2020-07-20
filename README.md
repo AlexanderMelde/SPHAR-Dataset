@@ -90,5 +90,4 @@ If you want to cite the work of the **SPHAR Dataset** (aggregation, converting a
 ```
 (replace urldate with your own day of retrieval)
 
-
-![SPHAR Surveillance Perspective Human Action Recognition Logo](docs/SPHAR.svg)
+[![SPHAR Surveillance Perspective Human Action Recognition Logo](docs/SPHAR.svg)](https://alexandermelde.github.io/SPHAR-Dataset/)</small>
