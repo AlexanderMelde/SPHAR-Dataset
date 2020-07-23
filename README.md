@@ -28,7 +28,7 @@ Videos per class and source dataset:
 |[UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)|100|50|0|50|0|0|0|0|0|0|400|50|150|100|unknown|
 |[UT-Interaction](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)|40|20|0|0|0|0|0|0|60|0|0|0|0|0|unknown|
 |[BIT-Interaction](https://sites.google.com/site/alexkongy/software)|100|50|0|0|0|0|0|0|250|0|0|0|0|0|non-commercial|
-|[Live Videos](https://cvrleyva.wordpress.com/2017/04/08/lv-dataset/)|1|0|1|1|4|0|0|0|1|0|7|2|7|1|unknown|
+|[Live Videos](https://cvrleyva.wordpress.com/2017/04/08/lv-dataset/)|1|0|1|1|4|0|0|0|1|0|7|2|7|1|CC-BY-NC|
 |[UCF-ARG](https://www.crcv.ucf.edu/research/data-sets/ucf-arg/)|144|0|0|144|0|0|288|288|432|0|0|0|0|0|unknown|
 |[VIRAT Ground](https://viratdata.org/)|0|0|0|0|0|208|1111|22|214|0|0|0|0|0|research & commercial|
 |[MEVA](https://mevadata.org/)|0|0|0|0|0|22|0|0|0|3|1|0|0|0|CC-BY-4.0|
