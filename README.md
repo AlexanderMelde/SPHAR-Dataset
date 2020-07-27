@@ -24,12 +24,12 @@ Videos per class and source dataset:
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[CAVIAR](http://groups.inf.ed.ac.uk/vision/CAVIAR/CAVIARDATA1/)|4|0|3|0|0|1|61|0|5|5|0|0|0|0|public|
 |[CASIA](http://www.cbsr.ia.ac.cn/english/Action%20Databases%20EN.asp)|12|0|36|14|48|0|204|96|0|0|11|0|0|0|author's permission|
-|[UCF-Aerial](https://www.crcv.ucf.edu/research/data-sets/ucf-aerial-action/)|0|0|0|0|0|0|71|8|64|0|0|0|0|0|unknown|
-|[UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)|100|50|0|50|0|0|0|0|0|0|400|50|150|100|unknown|
+|[UCF-Aerial](https://www.crcv.ucf.edu/research/data-sets/ucf-aerial-action/)|0|0|0|0|0|0|71|8|64|0|0|0|0|0|research-only|
+|[UCF-Crime](https://www.crcv.ucf.edu/projects/real-world/)|100|50|0|50|0|0|0|0|0|0|400|50|150|100|research-only|
 |[UT-Interaction](https://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html)|40|20|0|0|0|0|0|0|60|0|0|0|0|0|unknown|
 |[BIT-Interaction](https://sites.google.com/site/alexkongy/software)|100|50|0|0|0|0|0|0|250|0|0|0|0|0|non-commercial|
 |[Live Videos](https://cvrleyva.wordpress.com/2017/04/08/lv-dataset/)|1|0|1|1|4|0|0|0|1|0|7|2|7|1|CC-BY-NC|
-|[UCF-ARG](https://www.crcv.ucf.edu/research/data-sets/ucf-arg/)|144|0|0|144|0|0|288|288|432|0|0|0|0|0|unknown|
+|[UCF-ARG](https://www.crcv.ucf.edu/research/data-sets/ucf-arg/)|144|0|0|144|0|0|288|288|432|0|0|0|0|0|research-only|
 |[VIRAT Ground](https://viratdata.org/)|0|0|0|0|0|208|1111|22|214|0|0|0|0|0|research & commercial|
 |[MEVA](https://mevadata.org/)|0|0|0|0|0|22|0|0|0|3|1|0|0|0|CC-BY-4.0|
 |[Okutama](http://okutama-action.org/)|0|0|83|0|0|390|1064|102|1170|0|0|0|0|0|CC-BY-NC-3.0|
