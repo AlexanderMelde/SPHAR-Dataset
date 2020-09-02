@@ -16,7 +16,7 @@ This Repository contains all videos of the SPHAR dataset as well as the [scripts
 
 | # Videos |# Classes | Videos per Class | Video Sources | Dataset Size | Year |
 |----------|----------|------------------|---------------|--------------|------|
-|     7759 |       14 |         0 - 2800 |            11 |       6.2 GB | 2020 |
+|     7759 |       14 |         8 - 2800 |            11 |       6.2 GB | 2020 |
 
 Videos per class and source dataset:
 
