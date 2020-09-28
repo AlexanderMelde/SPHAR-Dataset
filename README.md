@@ -12,6 +12,12 @@ The videos have been aggregated from multiple sources, converted to a consistent
 
 This Repository contains all videos of the SPHAR dataset as well as the [scripts](scripts) needed to create the dataset.
 
+-------
+
+Head over to the [S-SPHAR repository](https://github.com/AlexanderMelde/S-SPHAR-Dataset), if you are looking for a synthetically generated dataset of this perspective.
+
+-------
+
 ## Dataset Overview
 
 | # Videos |# Classes | Videos per Class | Video Sources | Dataset Size | Year |
